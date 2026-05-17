@@ -3,6 +3,8 @@
 
 # 🏆 AI model for predicting FIFA World Cup 2026 results using Machine Learning.
 
+*AI ASSISTED (Claude Code)*
+
 ## What the model uses
 - ELO points (real, from baseline dataset)
 - Squad market value (Transfermarkt)
